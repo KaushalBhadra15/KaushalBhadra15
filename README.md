@@ -1,13 +1,6 @@
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
-
-###
-
-<p align="left">Dream is not that which you see while sleeping, it is something that does not let you sleep <3</p>
-
-###
-
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
+<br>
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -17,6 +10,10 @@
 </div>
 
 ###
+<p align="center">Dream is not that which you see while sleeping, it is something that does not let you sleep <3</p>
+
+###
+
 
 <p align="left">- 🔭 I’m working on an airBNB clone, Food delivery website<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I watch movies</p>
 
@@ -72,6 +69,8 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/KaushalBhadra15/KaushalBhadra15/output/snake.svg" alt="Snake animation" />
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
-###
