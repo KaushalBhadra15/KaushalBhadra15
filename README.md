@@ -10,7 +10,7 @@
 </div>
 
 ###
-<p align="center">Dream is not that which you see while sleeping, it is something that does not let you sleep <3</p>
+<p align="center">Dreams are not those which you see while sleeping, it is something that does not let you sleep <3</p>
 
 ###
 
